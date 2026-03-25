@@ -1,0 +1,37 @@
+export const vocabData: Record<string, { en: string; vi: string }[]> = {
+  "Unit 1: School": [
+    {en: "Eight o’clock", vi: "Tám giờ"}, {en: "Five past nine", vi: "Chín giờ năm phút"}, {en: "Two-thirty", vi: "Hai giờ rưỡi"}, {en: "A quarter to four", vi: "Bốn giờ kém mười lăm phút"}, {en: "a.m.", vi: "Giờ buổi sáng"}, {en: "Always", vi: "Luôn luôn"}, {en: "Doing experiments", vi: "Làm thí nghiệm"}, {en: "Ethnics", vi: "Môn Đạo đức"}, {en: "Geography", vi: "Môn Địa lý"}, {en: "History", vi: "Môn Lịch sử"}, {en: "I.T.", vi: "Môn Tin học"}, {en: "Learning languages", vi: "Học ngôn ngữ"}, {en: "Making things", vi: "Làm mọi đồ vật"}, {en: "Never", vi: "Không bao giờ"}, {en: "Often", vi: "Thường"}, {en: "p.m.", vi: "Giờ buổi chiều"}, {en: "Rarely", vi: "Hiếm khi"}, {en: "Reading stories", vi: "Đọc truyện"}, {en: "Science", vi: "Môn Khoa học"}, {en: "Solving problems", vi: "Giải quyết vấn đề"}, {en: "Sometimes", vi: "Thỉnh thoảng"}, {en: "Using computers", vi: "Sử dụng máy tính"}, {en: "Usually", vi: "Thường xuyên"}, {en: "Vietnamese", vi: "Môn Tiếng Việt"}
+  ],
+  "Unit 2: Holidays": [
+    {en: "Blow up the balloons", vi: "Thổi bong bóng"}, {en: "Buy candy", vi: "Mua kẹo"}, {en: "Children’s Day", vi: "Ngày Quốc tế Thiếu nhi"}, {en: "Christmas", vi: "Giáng sinh"}, {en: "Fifth", vi: "Thứ năm (số thứ tự)"}, {en: "First", vi: "Thứ nhất (số thứ tự)"}, {en: "Fourth", vi: "Thứ tư (số thứ tự)"}, {en: "Give lucky money", vi: "Trao lì xì"}, {en: "Give presents", vi: "Tặng quà"}, {en: "Halloween", vi: "Lễ hội Halloween"}, {en: "Invite friends", vi: "Mời bạn bè"}, {en: "Lunar New Year", vi: "Tết Nguyên đán"}, {en: "Make a cake", vi: "Làm bánh ngọt"}, {en: "New Year’s Eve", vi: "Đêm Giao thừa"}, {en: "Put up a Christmas tree", vi: "Dựng cây thông Noel"}, {en: "Put up colored paper", vi: "Treo giấy màu"}, {en: "Second", vi: "Thứ hai (số thứ tự)"}, {en: "Teacher’s Day", vi: "Ngày Nhà giáo"}, {en: "Third", vi: "Thứ ba (số thứ tự)"}, {en: "Watch fireworks", vi: "Xem pháo hoa"}, {en: "Watch the lion dance", vi: "Xem múa lân"}, {en: "Wear costumes", vi: "Hóa trang"}, {en: "Wrap the presents", vi: "Gói quà"}
+  ],
+  "Unit 3: My Friends and I": [
+    {en: "Badly", vi: "Tồi, dở"}, {en: "Bake cupcakes", vi: "Nướng bánh nhỏ"}, {en: "Busy", vi: "Bận rộn"}, {en: "Delicious", vi: "Ngon"}, {en: "Fast", vi: "Nhanh"}, {en: "Go bowling", vi: "Đi chơi bowling"}, {en: "Go camping", vi: "Đi cắm trại"}, {en: "Hard", vi: "Mạnh"}, {en: "Have a barbecue", vi: "Tiệc nướng"}, {en: "Have a sleepover", vi: "Ngủ qua đêm"}, {en: "Make paper crafts", vi: "Làm đồ thủ công"}, {en: "Noisy", vi: "Ồn ào"}, {en: "Paint a house", vi: "Sơn nhà"}, {en: "Plant some flowers", vi: "Trồng hoa"}, {en: "Quiet", vi: "Yên lặng"}, {en: "Scary", vi: "Đáng sợ"}, {en: "Sing karaoke", vi: "Hát karaoke"}, {en: "Slowly", vi: "Chậm chạp"}, {en: "Stay at home", vi: "Ở nhà"}, {en: "Study", vi: "Học tập"}, {en: "Visit my grandparents", vi: "Thăm ông bà"}, {en: "Well", vi: "Tốt, giỏi"}, {en: "Yucky", vi: "Xui xẻo/Dở tệ"}
+  ],
+  "Unit 4: Travel": [
+    {en: "Beach", vi: "Bãi biển"}, {en: "Brazil", vi: "Nước Brazil"}, {en: "Cambodia", vi: "Nước Campuchia"}, {en: "Canada", vi: "Nước Canada"}, {en: "China", vi: "Nước Trung Quốc"}, {en: "Ferry", vi: "Phà"}, {en: "Forest", vi: "Rừng"}, {en: "France", vi: "Nước Pháp"}, {en: "Germany", vi: "Nước Đức"}, {en: "Helicopter", vi: "Trực thăng"}, {en: "Indonesia", vi: "Nước Indonesia"}, {en: "Lake", vi: "Hồ"}, {en: "Laos", vi: "Nước Lào"}, {en: "Minibus", vi: "Xe buýt nhỏ"}, {en: "Mountain", vi: "Núi"}, {en: "Ocean", vi: "Đại dương"}, {en: "Plane", vi: "Máy bay"}, {en: "River", vi: "Sông"}, {en: "Singapore", vi: "Nước Singapore"}, {en: "South Korea", vi: "Nước Hàn Quốc"}, {en: "Spain", vi: "Nước Tây Ban Nha"}, {en: "Speedboat", vi: "Tàu thủy cao tốc"}, {en: "Thailand", vi: "Nước Thái Lan"}, {en: "Van", vi: "Xe tải"}
+  ],
+  "Unit 5: Health": [
+    {en: "A headache", vi: "Sự đau đầu"}, {en: "A stomachache", vi: "Sự đau bụng"}, {en: "A toothache", vi: "Sự đau răng"}, {en: "An earache", vi: "Sự đau tai"}, {en: "Chickenpox", vi: "Bệnh thủy đậu"}, {en: "Do exercise", vi: "Tập thể dục"}, {en: "Eat fast food", vi: "Ăn đồ ăn nhanh"}, {en: "Eat too much", vi: "Ăn quá nhiều"}, {en: "Eat vegetables", vi: "Ăn rau"}, {en: "Get some rest", vi: "Nghỉ ngơi"}, {en: "Play outside", vi: "Chơi bên ngoài"}, {en: "See a dentist", vi: "Đi gặp nha sĩ"}, {en: "Sick", vi: "Ốm"}, {en: "Skip breakfast", vi: "Bỏ bữa sáng"}, {en: "Sleepy", vi: "Buồn ngủ"}, {en: "Sore", vi: "Đau, nhức"}, {en: "Stay up late", vi: "Thức khuya"}, {en: "Stuffed up", vi: "Nghẹt mũi"}, {en: "Take a bath", vi: "Đi tắm"}, {en: "Take some medicine", vi: "Uống thuốc"}, {en: "Terrible", vi: "Tồi tệ"}, {en: "The flu", vi: "Bệnh cúm"}, {en: "Wash your hands", vi: "Rửa tay"}, {en: "Weak", vi: "Yếu"}
+  ],
+  "Unit 6: Food and drinks": [
+    {en: "Bread", vi: "Bánh mì"}, {en: "Breakfast", vi: "Bữa sáng"}, {en: "Butter", vi: "Bơ"}, {en: "Cereal", vi: "Ngũ cốc"}, {en: "Chocolate chips", vi: "Sô-cô-la hạt nút"}, {en: "Curry", vi: "Cà ri"}, {en: "Dinner", vi: "Bữa tối"}, {en: "Flour", vi: "Bột mì"}, {en: "Hamburger", vi: "Bánh hamburger"}, {en: "Hot chocolate", vi: "Sô-cô-la nóng"}, {en: "Juice", vi: "Nước ép"}, {en: "Lemonade", vi: "Nước chanh"}, {en: "Lunch", vi: "Bữa trưa"}, {en: "Meat", vi: "Thịt"}, {en: "Milk", vi: "Sữa"}, {en: "Oil", vi: "Dầu ăn"}, {en: "Pie", vi: "Bánh nướng"}, {en: "Rice", vi: "Cơm"}, {en: "Sandwich", vi: "Bánh mì sandwich"}, {en: "Smoothie", vi: "Sinh tố"}, {en: "Soda", vi: "Nước có ga"}, {en: "Steak", vi: "Bít tết"}, {en: "Sugar", vi: "Đường"}, {en: "Tea", vi: "Trà"}
+  ],
+  "Unit 7: Jobs": [
+    {en: "Actor", vi: "Diễn viên nam"}, {en: "Artist", vi: "Nghệ sĩ"}, {en: "Astronaut", vi: "Phi hành gia"}, {en: "Baker", vi: "Thợ làm bánh"}, {en: "Biologist", vi: "Nhà sinh vật học"}, {en: "Business person", vi: "Doanh nhân"}, {en: "Chef", vi: "Đầu bếp"}, {en: "Chemist", vi: "Nhà hóa học"}, {en: "Designer", vi: "Nhà thiết kế"}, {en: "Driver", vi: "Tài xế"}, {en: "Engineer", vi: "Kỹ sư"}, {en: "Hairdresser", vi: "Thợ cắt tóc"}, {en: "Mechanic", vi: "Thợ cơ khí"}, {en: "Nurse", vi: "Y tá"}, {en: "Piano player", vi: "Nhạc sĩ dương cầm"}, {en: "Pilot", vi: "Phi công"}, {en: "Police officer", vi: "Cảnh sát"}, {en: "Scientist", vi: "Nhà khoa học"}, {en: "Singer", vi: "Ca sĩ"}, {en: "Soccer player", vi: "Cầu thủ bóng đá"}, {en: "Tour guide", vi: "Hướng dẫn viên du lịch"}, {en: "Vet", vi: "Bác sĩ thú y"}, {en: "Writer", vi: "Nhà văn"}, {en: "Zookeeper", vi: "Nhân viên sở thú"}
+  ],
+  "Unit 8: Weather": [
+    {en: "Breezy", vi: "Có gió hiu hiu"}, {en: "Calm", vi: "Êm đềm"}, {en: "Clear", vi: "Trời trong"}, {en: "Dry", vi: "Khô ráo"}, {en: "Fall", vi: "Mùa thu"}, {en: "Flood", vi: "Lũ lụt"}, {en: "Gray", vi: "Trời xám xịt"}, {en: "Humid", vi: "Ẩm ướt"}, {en: "Next Wednesday", vi: "Thứ 4 tuần tới"}, {en: "Next week", vi: "Tuần tới"}, {en: "Next weekend", vi: "Cuối tuần sau"}, {en: "Rainstorm", vi: "Mưa bão"}, {en: "Shower", vi: "Cơn mưa rào"}, {en: "Snowstorm", vi: "Bão tuyết"}, {en: "Spring", vi: "Mùa xuân"}, {en: "Summer", vi: "Mùa hè"}, {en: "Sunshine", vi: "Ánh nắng mặt trời"}, {en: "Thunderstorm", vi: "Giông bão"}, {en: "Tomorrow", vi: "Ngày mai"}, {en: "Tomorrow morning", vi: "Sáng mai"}, {en: "Tonight", vi: "Tối nay"}, {en: "Winter", vi: "Mùa đông"}
+  ]
+};
+
+export const emojis: Record<string, string> = {
+  "School": "🏫",
+  "Holidays": "🎉",
+  "Friends": "👫",
+  "Travel": "✈️",
+  "Health": "🏥",
+  "Food": "🍔",
+  "Jobs": "👨‍⚕️",
+  "Weather": "☀️"
+};
